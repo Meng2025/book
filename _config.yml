@@ -1,8 +1,9 @@
-title:       gitbook
-description: 描述
+title:       学英语
+description: 笔记
 
 theme: null
 
+siteurl: "https://xymeng.xyz/book/"
 
 # debug:
 #   compress: true
